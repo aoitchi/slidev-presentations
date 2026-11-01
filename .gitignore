@@ -1,0 +1,5 @@
+.direnv/
+node_modules/
+
+# Generated from talks/*/assets/simple-icons.json.
+talks/*/public/simple-icons/*.svg

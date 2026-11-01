@@ -1,0 +1,9 @@
+{
+  "name": "presentations",
+  "private": true,
+  "devDependencies": {
+    "@slidev/cli": "53.0.0",
+    "@slidev/theme-default": "0.25.0",
+    "simple-icons": "16.35.0"
+  }
+}

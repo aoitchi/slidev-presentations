@@ -1,0 +1,4 @@
+node_modules/
+dist/
+talks/*/public/simple-icons/
+pnpm-lock.yaml
