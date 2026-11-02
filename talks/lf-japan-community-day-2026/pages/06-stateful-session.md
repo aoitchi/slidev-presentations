@@ -1,6 +1,6 @@
 # protocol-level sessionは<br>リクエストの振り分けを制約する
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 <div class="mb-3 text-center text-lg">セッションをインスタンス内に保持する場合</div>
 
@@ -41,6 +41,4 @@ flowchart LR
 
 <div class="mt-3 text-center text-xl">
 → 負荷分散やインスタンスの入れ替えに制約が生まれる
-</div>
-
 </div>

@@ -1,6 +1,10 @@
+---
+contentClass: 'gap-6'
+---
+
 # What are local and remote<br>MCP servers?
 
-<div class="flex-1 min-h-0 flex flex-col justify-center gap-6">
+::content::
 
 <div>
 
@@ -52,7 +56,5 @@ flowchart LR
   classDef brand fill:transparent,stroke:transparent,stroke-width:0px;
   class G brand;
 ```
-
-</div>
 
 </div>

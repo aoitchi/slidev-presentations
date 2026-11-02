@@ -1,6 +1,6 @@
 # MCP 2026-07-28: protocol-level sessionを廃止
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 <div class="w-2/3 mx-auto">
 
@@ -31,6 +31,4 @@ flowchart LR
 
 <div class="mt-3 text-center text-xl">
 負荷分散やインスタンスの増減・入れ替えを行いやすくなる
-</div>
-
 </div>

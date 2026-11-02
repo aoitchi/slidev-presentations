@@ -1,6 +1,6 @@
 # What is a protocol-level session?
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 <div class="grid grid-cols-2 gap-8 items-center">
 
@@ -64,8 +64,6 @@ sequenceDiagram
     Client->>+Server: tools/call<br/>MCP-Session-Id: abc
     Server-->>-Client: content
 ```
-
-</div>
 
 </div>
 

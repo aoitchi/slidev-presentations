@@ -1,6 +1,6 @@
 # Definition of words
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 ### intermediate stateと追加情報の取得
 
@@ -32,5 +32,3 @@
 </div>
 
 </dl>
-
-</div>

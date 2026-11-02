@@ -1,6 +1,6 @@
 # remote MCP serverをサービスとして運用するために
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 <div class="w-3/5 mx-auto">
 
@@ -56,5 +56,3 @@ flowchart LR
 </div>
 
 <div class="mt-5 text-center text-xl">負荷の変動や障害・更新に対応しながらサービスを提供し続けたい</div>
-
-</div>

@@ -1,6 +1,10 @@
+---
+contentClass: 'items-center gap-3 text-center text-xl'
+---
+
 # 開発・運用の要望を受けて進化するMCP
 
-<div class="flex-1 min-h-0 flex flex-col justify-center items-center gap-3 text-center text-xl">
+::content::
 
 <div class="text-lg">AAIF傘下のMCPコミュニティでの一例</div>
 
@@ -21,6 +25,4 @@ protocol-level sessionを廃止し役割を再設計
 <div class="font-semibold">
 AI agentの開発・運用の変化に応じて<br>
 コミュニティでの議論と仕様更新が続く
-</div>
-
 </div>

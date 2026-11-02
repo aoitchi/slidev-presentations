@@ -1,20 +1,14 @@
 ---
-theme: default
+theme: ../../themes/centered
 layout: cover
 title: MCPのステートレス化が解決したこと
 colorSchema: light
 transition: none
-defaults:
-  class: 'flex flex-col [&>h1]:shrink-0 [&_h1]:!text-4xl [&_h1]:!leading-tight [&_.mermaid]:flex [&_.mermaid]:justify-center'
 ---
-
-<div class="text-center">
 
 # MCPのステートレス化が<br>解決したこと
 
 Aoi Sato
-
-</div>
 
 
 ---

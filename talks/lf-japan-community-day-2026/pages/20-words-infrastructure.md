@@ -1,6 +1,6 @@
 # Definition of words
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 ### 分散システムとしての運用
 
@@ -27,5 +27,3 @@
 </div>
 
 </dl>
-
-</div>
