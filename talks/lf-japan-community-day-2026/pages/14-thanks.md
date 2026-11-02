@@ -1,9 +1,5 @@
 ---
-layout: cover
+layout: center
 ---
 
-<div class="text-center">
-
 # Thank you
-
-</div>

@@ -1,6 +1,6 @@
 # intermediate stateはリクエスト間で引き継ぐ
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 <div class="mb-2 text-center text-lg">
 Multi Round-Trip Requests（MRTR）：追加情報を含めてリクエストを再送する
@@ -82,6 +82,4 @@ sequenceDiagram
 <div class="mt-4 text-center text-xl font-semibold">
 サーバーは追加情報の依頼をレスポンスに含め<br>
 クライアントは追加情報を含めてリクエストを再送する
-</div>
-
 </div>

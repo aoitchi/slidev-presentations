@@ -1,6 +1,6 @@
 # Definition of words
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 ### セッションと初期化
 
@@ -22,5 +22,3 @@
 </div>
 
 </dl>
-
-</div>

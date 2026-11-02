@@ -1,6 +1,6 @@
 # protocol-level sessionが担っていた代表的な役割
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 <div class="grid grid-cols-3 gap-4 text-[18px] leading-snug">
 
@@ -67,6 +67,4 @@ sampling：<br>
 
 <div class="mt-7 text-center text-xl font-semibold">
 protocol-level sessionを廃止するにはこれらの役割を別の仕組みで実現する必要がある
-</div>
-
 </div>

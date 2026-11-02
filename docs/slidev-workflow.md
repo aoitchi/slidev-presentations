@@ -21,6 +21,8 @@ test -f "talks/$talk_name/slides.md"
 
 ## プレビュー
 
+表紙・中央配置・本文配置の共通レイアウトには[centeredテーマ](../themes/centered/README.md)を使う。
+
 ```sh
 pnpm exec slidev "talks/$talk_name/slides.md" --port 3030
 ```

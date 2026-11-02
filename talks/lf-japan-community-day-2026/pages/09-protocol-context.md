@@ -1,6 +1,6 @@
 # protocol contextはリクエストごとに渡す
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 <div class="grid grid-cols-2 gap-8 items-start">
 
@@ -77,6 +77,4 @@ sequenceDiagram
 
 <div class="mt-6 text-center text-xl font-semibold">
 各リクエストに必要なprotocol contextを含めて過去のやり取りに依存せず処理できる
-</div>
-
 </div>

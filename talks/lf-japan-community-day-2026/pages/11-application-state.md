@@ -1,6 +1,6 @@
 # application stateはexplicit state handleで参照する
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 <div class="mb-2 text-center text-lg">
 explicit state handle：サーバーが管理するapplication stateを参照するための識別子
@@ -78,6 +78,4 @@ sequenceDiagram
 <div class="mt-6 text-center text-xl font-semibold">
 サーバーは状態を識別するhandleを返し<br>
 クライアントは以降の呼び出しでそのhandleをtool argumentとして渡す
-</div>
-
 </div>

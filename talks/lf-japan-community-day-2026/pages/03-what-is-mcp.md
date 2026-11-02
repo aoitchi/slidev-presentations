@@ -1,6 +1,6 @@
 # What is MCP?
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 <div class="mb-6 text-center text-xl font-semibold">
 
@@ -40,7 +40,5 @@ flowchart LR
 
 サービス固有のAPI連携はMCP serverが担い<br>
 LLM application側は共通のプロトコルで各サービスの機能を利用できる
-
-</div>
 
 </div>

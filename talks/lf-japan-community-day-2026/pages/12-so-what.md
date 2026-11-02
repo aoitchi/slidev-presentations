@@ -1,6 +1,6 @@
 # 状態管理とインフラを<br>protocol-level sessionから切り離した
 
-<div class="flex-1 min-h-0 flex flex-col justify-center">
+::content::
 
 <div class="grid grid-cols-2 gap-12 text-center">
 
@@ -24,8 +24,6 @@
 状態の共有範囲や寿命は<br>
 アプリケーション側で<br>
 明示的に設計する
-</div>
-
 </div>
 
 </div>
